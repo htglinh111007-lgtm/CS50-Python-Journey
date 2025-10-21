@@ -5,5 +5,3 @@ for i in s:
         a+=1
 if a!=1:
     print("Invalid")
-else:
-    print ("Valid")
